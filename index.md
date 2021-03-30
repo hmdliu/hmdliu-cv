@@ -1,91 +1,45 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hammond Liu
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hammond Liu (刘浩铭)
+
+## Background
+I am a sophomore at NYU Shanghai. I major in Computer Science, and I minor in Data Science and Maths.
+
+Currently, I'm doing researches about semantic segmentation with <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>. Previously, I completed a summer research project about large-parallax image stitching with the help of <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>.
+
+My research interests are broadly in the <font color="FFA500">Computer Vison</font> field.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:hl3797@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hl3797@nyu.edu</a> |
+  <!-- <a href="./assets/resume.pdf"><i class="fas fa-file-pdf"></i> Resume</a> | -->
+  <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Present`
+**B.S., Computer Science**, *NYU Shanghai*, China.
 
 
+## Projects
 
-## Awards
+<a href="./assets/DURF_image_stitching.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Large-parallax Image Alignment Algorithm based on Sub-plane Segmentation</a><br>
+**Haoming Liu** (Tutored by Prof. Xianbin Gu)
+<br>*Summer*, 2020
 
-`2012`
-President, *Royal Society*, London, UK
+## Experience
 
-Associate, *French Academy of Science*, Paris, France
+`2020-2021`
+**President**, *Splice Club (CS/DS focused)*, NYU Shanghai.
 
+`Spring 2021`
+**Learning Assistant**, *CSCI-SHU 235: Information Visualization*, NYU Shanghai.
 
+## Awards & honors
 
-## Publications
+`Summer 2020`
+**Deans' Undergraduate Research Fund (DURF)**, *NYU Shanghai*.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<br/>Last Update: March 2021<br/><br/>
