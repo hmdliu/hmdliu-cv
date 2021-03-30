@@ -17,7 +17,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vison</fo
 <div id="webaddress">
   <a href="mailto:hl3797@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hl3797@nyu.edu</a> |
   <!-- <a href="./assets/resume.pdf"><i class="fas fa-file-pdf"></i> Resume</a> | -->
-  <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-book-open"></i> blog.hmdliu.site</a> |
+  <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> |
   <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a>
 </div>
 
