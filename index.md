@@ -30,22 +30,22 @@ My research interests are broadly in the <font color="FFA500">Computer Vison</fo
 ## Projects
 
 `Summer 2021`
-**RGB-D Semantic Segmentation based on CNN with Attention Module** <a href="./assets/DURF_RGBD_sseg.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Proposal]</a> <a href="https://github.com/TeamOfProfGuo/DANet" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+**RGB-D Semantic Segmentation based on CNN with Attention Module** <a href="./assets/DURF_RGBD_sseg.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank"> [Proposal]</a> <a href="https://github.com/TeamOfProfGuo/DANet" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank"> [Code]</a> <br>
 DURF Summer Research Project <br>
 Zhongwen Zhou, **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
 `Fall 2020`
-**Multi-class face mask detection based on transfer learning and YOLO v4** <a href="./assets/ML_face_mask_detection.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/ML-project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+**Multi-class face mask detection based on transfer learning and YOLO v4** <a href="./assets/ML_face_mask_detection.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank"> [Report]</a> <a href="https://github.com/hmdliu/ML-project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank"> [Code]</a> <br>
 Course Final Project *(CSCI-SHU 360: Machine Learning)* <br>
 **Haoming Liu**, Kaiwen Dai, Chunli Xu, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/enric-junque-de-fortuny" target="_blank">Prof. Enric Junqué de Fortuny</a>*
 
 `Fall 2020`
-**Life Hacking on Time Management: Daily Life Visualization** <a href="./assets/IV_daily_life_vis.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <br>
+**Life Hacking on Time Management: Daily Life Visualization** <a href="./assets/IV_daily_life_vis.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank"> [Report]</a> <br>
 Course Final Project *(CSCI-SHU 235: Information Visualization)* <br>
 **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>*
 
 `Summer 2020`
-**Large-parallax Image Alignment Algorithm based on Sub-plane Segmentation** <a href="./assets/DURF_image_stitching.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <br>
+**Large-parallax Image Alignment Algorithm based on Sub-plane Segmentation** <a href="./assets/DURF_image_stitching.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank"> [Report]</a> <br>
 DURF Summer Research Project <br>
 **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>*
 
