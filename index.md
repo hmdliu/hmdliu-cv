@@ -17,7 +17,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vison</fo
 <div id="webaddress">
   <a href="mailto:hl3797@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hl3797@nyu.edu</a> |
   <!-- <a href="./assets/resume.pdf"><i class="fas fa-file-pdf"></i> Resume</a> | -->
-  <a href="https://blog.hmdliu.site/" target="_blank"><i class="far fa-book-open"></i> blog.hmdliu.site</a> |
+  <a href="https://blog.hmdliu.site/" target="_blank"><i class="fal fa-book-open"></i> blog.hmdliu.site</a> |
   <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a>
 </div>
 
@@ -58,15 +58,15 @@ DURF Summer Research Project <br>
 **Learning Assistant**, *CSCI-SHU 235: Information Visualization*, NYU Shanghai.
 
 ## Courses
-MATH-SHU 131: Calculus
-MATH-SHU 140: Linear Algebra
-MATH-SHU 235: Probability and Statistics
-CSCI-SHU 2314: Discrete Maths
+MATH-SHU 131: Calculus \
+MATH-SHU 140: Linear Algebra \
+MATH-SHU 235: Probability and Statistics \
+CSCI-SHU 2314: Discrete Maths \
 \
-CSCI-UA 201: Computer System Organization
-CSCI-SHU 210: Data Structures
-CSCI-SHU 220: Algorithms
-CSCI-SHU 235: Information Visualization
+CSCI-UA 201: Computer System Organization \
+CSCI-SHU 210: Data Structures \
+CSCI-SHU 220: Algorithms \
+CSCI-SHU 235: Information Visualization \
 CSCI-SHU 360: Machine Learning
 
 ## Awards
