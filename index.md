@@ -12,7 +12,7 @@ I am a sophomore at NYU Shanghai. I major in Computer Science, and I minor in Da
 
 Currently, I'm doing researches about semantic segmentation with <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>. Previously, I completed a summer research project about large-parallax image stitching with the help of <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>.
 
-My research interests are broadly in the <font color="FFA500">Computer Vison</font> field.
+My research interests are broadly in the <font color="FFA500">Computer Vision</font> field.
 
 <div id="webaddress">
   <a href="mailto:hl3797@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hl3797@nyu.edu</a> |
