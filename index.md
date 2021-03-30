@@ -69,10 +69,13 @@ CSCI-SHU 220: Algorithms \
 CSCI-SHU 235: Information Visualization \
 CSCI-SHU 360: Machine Learning
 
-## Awards
+## Awards & Honors
 
 `Summer 2021`
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
+
+`2019-2020`
+**Dean's List for Academic Year**, *NYU Shanghai*.
 
 `Summer 2020`
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
