@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Hammond Liu
+title: Hammond Liu (刘浩铭)
 ---
 
 <br/>
