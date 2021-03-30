@@ -24,7 +24,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vison</fo
 ## Education
 
 `Present`
-**B.S., Computer Science**, *NYU Shanghai*, China.
+**B.S., Computer Science**, *NYU Shanghai*, China. (CGPA: 3.84/4)
 
 
 ## Projects
@@ -35,7 +35,7 @@ DURF Summer Research Project <br>
 Zhongwen Zhou, **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
 `Fall 2020`
-**Multi-class Face Mask Detection with Transfer Learning and YOLO v4** <a href="./assets/ML_face_mask_detection.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/ML-project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <a href="https://drive.google.com/file/d/1VwZAlCiyWek0wMOV_CKwXFfe0sPxrP_I/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <br>
+**Multi-class Face Mask Detection based on Transfer Learning and YOLO v4** <a href="./assets/ML_face_mask_detection.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/ML-project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <a href="https://drive.google.com/file/d/1VwZAlCiyWek0wMOV_CKwXFfe0sPxrP_I/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <br>
 Course Final Project *(CSCI-SHU 360: Machine Learning)* <br>
 **Haoming Liu**, Kaiwen Dai, Chunli Xu, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/enric-junque-de-fortuny" target="_blank">Prof. Enric Junqué de Fortuny</a>*
 
