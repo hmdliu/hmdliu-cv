@@ -24,7 +24,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Education
 
 `Present`
-**B.S., Computer Science**, *NYU Shanghai*, China. (CGPA: 3.84/4)
+**B.S., Computer Science**, *NYU Shanghai*, China. (CGPA: 3.84/4.00)
 
 
 ## Projects
