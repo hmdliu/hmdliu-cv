@@ -8,14 +8,14 @@ title: Hammond Liu (刘浩铭)
 # Hammond Liu (刘浩铭)
 
 ## Background
-I am a sophomore at NYU Shanghai. I major in Computer Science, and I minor in Data Science and Maths.
+I am a rising junior at NYU Shanghai. I major in Computer Science, and I minor in Data Science and Maths.
 
 Currently, I'm doing researches about semantic segmentation with <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>. Previously, I completed a summer research project about large-parallax image stitching with the help of <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>.
 
 My research interests are broadly in the <font color="FFA500">Computer Vision</font> field.
 
 <div id="webaddress">
-  <a href="mailto:hl3797@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hl3797@nyu.edu</a> |
+  <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
   <!-- <a href="./assets/resume.pdf"><i class="fas fa-file-pdf"></i> Resume</a> | -->
   <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> |
   <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a>
@@ -24,7 +24,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Education
 
 `Present`
-**B.S., Computer Science**, *NYU Shanghai*, China. (CGPA: 3.84/4.00)
+**B.S., Computer Science**, *NYU Shanghai*, China. (GPA: 3.89/4.00)
 
 
 ## Projects
@@ -32,7 +32,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 `Summer 2021`
 **RGB-D Semantic Segmentation based on CNN with Attention Module** <a href="./assets/DURF_RGBD_sseg.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Proposal]</a> <a href="https://github.com/TeamOfProfGuo/DANet" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 DURF Summer Research Project <br>
-Zhongwen Zhou, **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
+**Haoming Liu**, Zhongwen Zhou, Hanyuan Zhang, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
 `Fall 2020`
 **Multi-class Face Mask Detection based on Transfer Learning and YOLO v4** <a href="./assets/ML_face_mask_detection.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/ML-project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <a href="https://drive.google.com/file/d/1VwZAlCiyWek0wMOV_CKwXFfe0sPxrP_I/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <br>
@@ -51,6 +51,9 @@ DURF Summer Research Project <br>
 
 ## Experience
 
+`Summer 2021`
+**Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
+
 `2020-2021`
 **President**, *Splice Club (CS/DS focused)*, NYU Shanghai.
 
@@ -63,7 +66,7 @@ MATH-SHU 140: Linear Algebra \
 MATH-SHU 235: Probability and Statistics \
 CSCI-SHU 2314: Discrete Maths \
 \
-CSCI-UA 201: Computer System Organization \
+CSCI-UA 201: Computer Systems Organization \
 CSCI-SHU 210: Data Structures \
 CSCI-SHU 220: Algorithms \
 CSCI-SHU 235: Information Visualization \
@@ -81,4 +84,4 @@ CSCI-SHU 360: Machine Learning
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
 <br/> <br/>
-Last Update: March 2021 <br/> <br/>
+Last Update: June 2021 <br/> <br/>
