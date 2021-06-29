@@ -51,7 +51,7 @@ DURF Summer Research Project <br>
 
 ## Experience
 
-`2020-present`
+`2020-Present`
 **Research Assistant on Semantic Segmentation**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
 
 `Summer 2021`
