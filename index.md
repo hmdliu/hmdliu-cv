@@ -51,8 +51,11 @@ DURF Summer Research Project <br>
 
 ## Experience
 
+`2020-present`
+**Research Assistant on Semantic Segmentation**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
+
 `Summer 2021`
-**Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
+**Research Assistant on Optical Character Recognition**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
 
 `2020-2021`
 **President**, *Splice Club (CS/DS focused)*, NYU Shanghai.
@@ -84,4 +87,4 @@ CSCI-SHU 360: Machine Learning
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
 <br/> <br/>
-Last Update: June 2021 <br/> <br/>
+Last Update: July 2021 <br/> <br/>
