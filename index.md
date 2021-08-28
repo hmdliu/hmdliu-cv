@@ -77,6 +77,9 @@ CSCI-SHU 360: Machine Learning
 
 ## Awards & Honors
 
+`2020-2021`
+**Dean's List for Academic Year**, *NYU Shanghai*.
+
 `Summer 2021`
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
@@ -87,4 +90,4 @@ CSCI-SHU 360: Machine Learning
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
 <br/> <br/>
-Last Update: July 2021 <br/> <br/>
+Last Update: August 2021 <br/> <br/>
