@@ -8,7 +8,7 @@ title: Hammond Liu (刘浩铭)
 # Hammond Liu (刘浩铭)
 
 ## Background
-I am a rising junior at NYU Shanghai. I major in Computer Science, and I minor in Data Science and Maths.
+I am a junior student at NYU Shanghai. I major in Computer Science, and I minor in Data Science and Maths.
 
 Currently, I'm doing researches about semantic segmentation with <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>. Previously, I completed a summer research project about large-parallax image stitching with the help of <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>.
 
@@ -94,4 +94,4 @@ CSCI-GA 2271: Computer Vision (graduate-level)
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
 <br/> <br/>
-Last Update: August 2021 <br/> <br/>
+Last Update: September 2021 <br/> <br/>
