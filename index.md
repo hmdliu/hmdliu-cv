@@ -77,7 +77,7 @@ CSCI-SHU 360: Machine Learning \
 CSCI-UA 201: Computer Systems Organization \
 CSCI-UA 480-062: Computer Networks \
 CSCI-UA 9472: Artificial Intelligence \
-CSCI-GA 2271: Computer Vision (graduate level) \
+CSCI-GA 2271: Computer Vision (graduate-level)
 
 ## Awards & Honors
 
