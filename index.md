@@ -8,16 +8,14 @@ title: Hammond Liu (刘浩铭)
 # Hammond Liu (刘浩铭)
 
 ## Background
-I am a junior student at NYU Shanghai. I major in Computer Science, and I minor in Data Science and Maths.
+I'm currently a junior student at NYU Shanghai. My major is Computer Science, and I also minor in Mathematics. Academic research has brought me a lot of fun, so I'm likely to pursue a PhD degree after graduation.
 
-Currently, I'm doing researches about semantic segmentation with <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>. Previously, I completed a summer research project about large-parallax image stitching with the help of <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>.
-
-My research interests are broadly in the <font color="FFA500">Computer Vision</font> field.
+My research interests are broadly in the <font color="FFA500">Computer Vision</font> field. Recent research topics includes semantic segmentation, few-shot segmentation, and structural reparameterization.
 
 <div id="webaddress">
   <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
   <!-- <a href="./assets/resume.pdf"><i class="fas fa-file-pdf"></i> Resume</a> | -->
-  <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> |
+  <!-- <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> | -->
   <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a>
 </div>
 
@@ -30,7 +28,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Projects
 
 `Summer 2021`
-**RGB-D Semantic Segmentation based on CNN with Attention Module** <a href="./assets/DURF_RGBD_sseg.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Proposal]</a> <a href="https://github.com/TeamOfProfGuo/DANet" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+**A General Feature Fusion Idiom for RGB-D Semantic Segmentation** <a href="./assets/DURF_ff_sseg.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/TeamOfProfGuo/SSeg" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 DURF Summer Research Project <br>
 **Haoming Liu**, Zhongwen Zhou, Hanyuan Zhang, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
@@ -52,7 +50,7 @@ DURF Summer Research Project <br>
 ## Experience
 
 `2020-Present`
-**Research Assistant on Semantic Segmentation**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
+**Research Assistant on Computer Vision**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
 
 `Summer 2021`
 **Research Assistant on Optical Character Recognition**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
@@ -64,19 +62,21 @@ DURF Summer Research Project <br>
 **Learning Assistant**, *CSCI-SHU 235: Information Visualization*, NYU Shanghai.
 
 ## Courses
-MATH-SHU 131: Calculus \
+MATH-UA 123: Calculus III \
 MATH-SHU 140: Linear Algebra \
 MATH-SHU 235: Probability and Statistics \
 CSCI-SHU 2314: Discrete Maths \
-MATH-UA 123: Calculus III \
 \
 CSCI-SHU 210: Data Structures \
 CSCI-SHU 220: Algorithms \
 CSCI-SHU 235: Information Visualization \
 CSCI-SHU 360: Machine Learning \
 CSCI-UA 201: Computer Systems Organization \
-CSCI-UA 480-062: Computer Networks \
+CSCI-UA 467: Applied Internet Technology \
+CSCI-UA 480: Computer Networks \
 CSCI-UA 9472: Artificial Intelligence \
+\
+LING-UA 52: Machine Learning for Language Understanding \
 CSCI-GA 2271: Computer Vision (graduate-level)
 
 ## Awards & Honors
@@ -94,4 +94,4 @@ CSCI-GA 2271: Computer Vision (graduate-level)
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
 <br/> <br/>
-Last Update: September 2021 <br/> <br/>
+Last Update: November 2021 <br/> <br/>
