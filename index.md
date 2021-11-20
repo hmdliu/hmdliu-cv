@@ -100,5 +100,8 @@ CSCI-GA 2271: Computer Vision (graduate-level)
 `Summer 2020`
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
+## Links
+<a href="https://harrilee.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Harry Lee | 李昊蕤</a>
+
 <br/> <br/>
 Last Update: November 2021 <br/> <br/>
