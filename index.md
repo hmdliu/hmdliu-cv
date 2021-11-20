@@ -63,10 +63,10 @@ DURF Summer Research Project <br>
 ## Experience
 
 `2020-Present`
-**Research Assistant on Computer Vision**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
+**Computer Vision Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
 
 `Summer 2021`
-**Research Assistant on OCR**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
+**OCR Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
 
 `2020-2021`
 **President**, *Splice Club (CS/DS focused)*, NYU Shanghai.
