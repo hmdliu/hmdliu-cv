@@ -1,14 +1,14 @@
 ---
 layout: cv
-title: Hammond Liu (刘浩铭)
+title: Hammond Liu (劉浩銘)
 ---
 
 <br/>
 
-# Hammond Liu (刘浩铭)
+# Hammond Liu (劉浩銘)
 
 ## Background
-I'm a junior student at NYU Shanghai. My major is Computer Science, and I minor in Mathematics. Academic research has brought me a lot of fun, so I'm likely to pursue a PhD degree after graduation.
+I'm a junior student at NYU Shanghai. My major is Computer Science, and I also minor in Mathematics. Academic research has brought me a lot of fun, so I'm likely to pursue a PhD degree after graduation.
 
 My research interests are broadly in the <font color="FFA500">Computer Vision</font> field. Recent research topics includes semantic segmentation, few-shot segmentation, and structural reparameterization.
 
@@ -30,7 +30,12 @@ Inproceeding paper to be updated soon.
 ## Projects
 
 `Summer 2021`
-**A General Feature Fusion Idiom for RGB-D Semantic Segmentation** <a href="./assets/DURF_ff_sseg.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/TeamOfProfGuo/SSeg" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+**Contract Parsing & Key Content Extraction** <a href="./assets/OCR_contract_parser.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Intro]</a> <br>
+Research Assistant Project <br>
+**Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*
+
+`Summer 2021`
+**A General Feature Fusion Idiom for RGB-D Semantic Segmentation** <a href="./assets/DURF_rgbd_sseg.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/TeamOfProfGuo/SSeg" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 DURF Summer Research Project <br>
 **Haoming Liu**, Zhongwen Zhou, Hanyuan Zhang, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
