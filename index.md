@@ -29,6 +29,11 @@ Inproceeding paper to be updated soon.
 
 ## Projects
 
+`Fall 2021`
+**RepTree: When RepVGG Meets Self-ensembling** <a href="https://github.com/hmdliu/SRep" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+Course Final Project *(CSCI-GA 2271: Computer Vision)* <br>
+**Haoming Liu**, Allen Zhang, Jiayao Jin, *Mentor: <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Prof. Rob Fergus</a>*
+
 `Summer 2021`
 **Contract Parsing & Key Content Extraction** <a href="./assets/OCR_contract_parser.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Intro]</a> <br>
 Research Assistant Project <br>
@@ -40,7 +45,8 @@ DURF Summer Research Project <br>
 **Haoming Liu**, Zhongwen Zhou, Hanyuan Zhang, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
 `Fall 2020`
-**Multi-class Face Mask Detection based on Transfer Learning and YOLO v4** <a href="./assets/ML_face_mask_detection.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/ML-project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <a href="https://drive.google.com/file/d/1VwZAlCiyWek0wMOV_CKwXFfe0sPxrP_I/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <br>
+**Face Mask Detection based on Transfer Learning and YOLO v4** <a href="./assets/ML_face_mask_detection.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/ML-project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+<!-- <a href="https://drive.google.com/file/d/1VwZAlCiyWek0wMOV_CKwXFfe0sPxrP_I/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> -->
 Course Final Project *(CSCI-SHU 360: Machine Learning)* <br>
 **Haoming Liu**, Kaiwen Dai, Chunli Xu, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/enric-junque-de-fortuny" target="_blank">Prof. Enric Junqué de Fortuny</a>*
 
@@ -60,7 +66,7 @@ DURF Summer Research Project <br>
 **Research Assistant on Computer Vision**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
 
 `Summer 2021`
-**Research Assistant on Optical Character Recognition**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
+**Research Assistant on OCR**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
 
 `2020-2021`
 **President**, *Splice Club (CS/DS focused)*, NYU Shanghai.
