@@ -108,6 +108,7 @@ CSCI-GA 2271: Computer Vision (graduate-level)
 
 ## Links
 <a href="https://harrilee.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Harry Lee | 李昊蕤</a>
+<a href="https://tomzhu.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">汤姆的杂货铺</a>
 
 <br/> <br/>
 Last Update: November 2021 <br/> <br/>
