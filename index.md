@@ -25,12 +25,18 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 **B.S., Computer Science**, *NYU Shanghai*, China. (GPA: 3.89/4.00)
 
 ## Publications
-Inproceeding paper to be updated soon.
+`2021`
+**Pyramid-context Guided Feature Fusion for RGB-D Semantic Segmentation** <br>
+*Inproceeding to ICME 2022* <br>
+Li Guo\*, **Haoming Liu\***, Zhongwen Zhou, Hanyuan Zhang <br>
+
+<br>
+*: Equal Contribution.
 
 ## Projects
 
 `Fall 2021`
-**RepTree: When RepVGG Meets Self-ensembling** <a href="https://github.com/hmdliu/SRep" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+**RepMAF: When Re-parameterization Meets Multi-scale Attention** <a href="./assets/CV_RepMAF.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/RepMAF" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Course Final Project *(CSCI-GA 2271: Computer Vision)* <br>
 **Haoming Liu**, Allen Zhang, Jiayao Jin, *Mentor: <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Prof. Rob Fergus</a>*
 
