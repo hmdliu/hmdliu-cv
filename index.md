@@ -28,17 +28,14 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 `2021`
 **Pyramid-context Guided Feature Fusion for RGB-D Semantic Segmentation** <br>
 *Inproceeding to ICME 2022* <br>
-Li Guo\*, **Haoming Liu\***, Zhongwen Zhou, Hanyuan Zhang <br>
-
-<br>
-*: Equal Contribution.
+**Haoming Liu\***, Li Guo\* (equal contribution), Zhongwen Zhou, Hanyuan Zhang <br>
 
 ## Projects
 
 `Fall 2021`
 **RepMAF: When Re-parameterization Meets Multi-scale Attention** <a href="./assets/CV_RepMAF.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/RepMAF" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Course Final Project *(CSCI-GA 2271: Computer Vision)* <br>
-**Haoming Liu**, Allen Zhang, Jiayao Jin, *Mentor: <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Prof. Rob Fergus</a>*
+**Haoming Liu**, Chen Song Zhang, Jiayao Jin, *Mentor: <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Prof. Rob Fergus</a>*
 
 `Summer 2021`
 **Contract Parsing & Key Content Extraction** <a href="./assets/OCR_contract_parser.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Intro]</a> <br>
