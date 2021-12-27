@@ -86,14 +86,15 @@ CSCI-SHU 2314: Discrete Maths \
 CSCI-SHU 210: Data Structures \
 CSCI-SHU 220: Algorithms \
 CSCI-SHU 235: Information Visualization \
-CSCI-SHU 360: Machine Learning \
 CSCI-UA 201: Computer Systems Organization \
 CSCI-UA 467: Applied Internet Technology \
 CSCI-UA 480: Computer Networks \
-CSCI-UA 9472: Artificial Intelligence \
 \
+CSCI-SHU 360: Machine Learning \
+CSCI-UA 9472: Artificial Intelligence \
 LING-UA 52: Machine Learning for Language Understanding \
-CSCI-GA 2271: Computer Vision (graduate-level)
+CSCI-GA 2271: Computer Vision (graduate-level) \
+CSCI-GA 2572: Deep Learning (graduate-level)
 
 ## Awards & Honors
 
@@ -115,4 +116,4 @@ CSCI-GA 2271: Computer Vision (graduate-level)
 <a href="https://tomzhu.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">汤姆的杂货铺</a>
 
 <br/> <br/>
-Last Update: November 2021 <br/> <br/>
+Last Update: January 2022 <br/> <br/>
