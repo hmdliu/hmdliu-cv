@@ -22,7 +22,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Education
 
 `Present`
-**B.S., Computer Science**, *NYU Shanghai*, China. (GPA: 3.89/4.00)
+**B.S., Computer Science**, *NYU Shanghai*, China. (GPA: 3.90/4.00)
 
 ## Publications
 `2021`
