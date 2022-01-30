@@ -78,16 +78,17 @@ DURF Summer Research Project <br>
 **Learning Assistant**, *CSCI-SHU 235: Information Visualization*, NYU Shanghai.
 
 ## Courses
-MATH-UA 123: Calculus III \
+CSCI-SHU 2314: Discrete Maths \
 MATH-SHU 140: Linear Algebra \
 MATH-SHU 235: Probability and Statistics \
-CSCI-SHU 2314: Discrete Maths \
+MATH-UA 123: Calculus III \
+MATH-UA 251: Intro to Math Modeling \
 \
 CSCI-SHU 210: Data Structures \
 CSCI-SHU 220: Algorithms \
 CSCI-SHU 235: Information Visualization \
 CSCI-UA 201: Computer Systems Organization \
-CSCI-UA 467: Applied Internet Technology \
+CSCI-UA 467: Applied Internet Technology (audit) \
 CSCI-UA 480: Computer Networks \
 \
 CSCI-SHU 360: Machine Learning \
