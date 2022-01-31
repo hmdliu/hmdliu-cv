@@ -43,9 +43,9 @@ Research Assistant Project <br>
 **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*
 
 `Summer 2021`
-**A General Feature Fusion Idiom for RGB-D Semantic Segmentation** <a href="./assets/DURF_rgbd_sseg.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/TeamOfProfGuo/SSeg" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+**A General Feature Fusion Paradigm for RGB-D Semantic Segmentation** <a href="./assets/DURF_rgbd_sseg.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/TeamOfProfGuo/SSeg" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 DURF Summer Research Project <br>
-**Haoming Liu**, Zhongwen Zhou, Hanyuan Zhang, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
+**Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
 `Fall 2020`
 **Face Mask Detection based on Transfer Learning and YOLO v4** <a href="./assets/ML_face_mask_detection.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/ML-project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
