@@ -33,7 +33,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Projects
 
 `Spring 2022`
-**Prototype Alignment via Attentional Feature Localization** <a href="https://github.com/TeamOfProfGuo/Few-shot-Segmentation" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Codebase]</a> <br>
+**Prototype Alignment via Attentional Feature Localization** <a href="https://github.com/TeamOfProfGuo/Few-shot-Segmentation/tree/hmd-base" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Codebase]</a> <br>
 Research Assistant Project on *Few-shot Segmentation* <br>
 **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
