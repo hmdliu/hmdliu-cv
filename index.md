@@ -54,7 +54,7 @@ Course Final Project *(CSCI-GA 2271: Computer Vision)* <br>
 
 `Summer 2021`
 **Contract Parsing & Key Content Extraction** <a href="./assets/OCR_contract_parser.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Intro]</a> <br>
-Research Assistant Project <br>
+Research Assistant Project on *Optical Character Recognition* <br>
 **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*
 
 `Summer 2021`
