@@ -33,17 +33,17 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Projects
 
 `Spring 2022`
-**Prototype Alignment via Attentional Feature Localization** <a href="https://github.com/TeamOfProfGuo/Few-shot-Segmentation/tree/hmd-base" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Codebase]</a> <br>
+**Regional Prototype Generation & Alignment** <a href="https://github.com/TeamOfProfGuo/FSS-Exp" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Research Assistant Project on *Few-shot Segmentation* <br>
 **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
 `Spring 2022`
-**A General Framework for Evaluating Soft-prompt Tuning Methods** <a href="./assets/MLLU_proposal.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Proposal]</a> <a style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code coming soon]</a> <br>
+**Evaluating Parameter-Efficient Tuning Methods with Limited Data** <a href="./assets/MLLU_report_draft.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Partial Draft]</a> <a href="https://github.com/hmdliu/MLLU-S22" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Course Final Project *(DS-UA 203: Machine Learning for Language Understanding)* <br>
 **Haoming Liu**, Wenbin Qi, Xiaochen Lu, *Mentor: <a href="https://cims.nyu.edu/~sbowman/" target="_blank">Prof. Sam Bowman</a>*
 
 `Spring 2022`
-**Boosting Object Detection with Self-supervised Learning** <a style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code coming soon]</a> <br>
+**Self-supervised Pre-training for Object Detection** <a href="https://github.com/hmdliu/Deep-Learning-S22" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Course Final Competition *(CSCI-GA 2572: Deep Learning)* <br>
 **Haoming Liu**, Wenbin Qi, Haorui Li, *Mentor: <a href="https://scholar.google.com/citations?user=WLN3QrAAAAAJ&hl=en" target="_blank">Prof. Yann LeCun</a>, <a href="https://atcold.github.io/" target="_blank">Prof. Alfredo Canziani</a>*
 
