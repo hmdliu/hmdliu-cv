@@ -27,7 +27,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Publications
 `2021`
 **Pyramid-context Guided Feature Fusion for RGB-D Semantic Segmentation** <br>
-*Proceeding to ICME 2022* <br>
+*Accepted by ICME 2022 (3DMM Workshop)* <br>
 **Haoming Liu\***, Li Guo\* (equal contribution), Zhongwen Zhou, Hanyuan Zhang <br>
 
 ## Projects
