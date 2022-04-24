@@ -25,10 +25,9 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 **B.S., Computer Science**, *NYU Shanghai*, China. (GPA: 3.90/4.00)
 
 ## Publications
-`2021`
 **Pyramid-context Guided Feature Fusion for RGB-D Semantic Segmentation** <br>
 *Accepted by ICME 2022 (3DMM Workshop)* <br>
-**Haoming Liu\***, Li Guo\* (equal contribution), Zhongwen Zhou, Hanyuan Zhang <br>
+Li Guo\*, **Haoming Liu**\*(equal contribution) <br>
 
 ## Projects
 
