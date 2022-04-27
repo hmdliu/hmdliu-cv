@@ -27,7 +27,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Publications
 **Pyramid-context Guided Feature Fusion for RGB-D Semantic Segmentation** <br>
 *Accepted by ICME 2022 (3DMM Workshop)* <br>
-Li Guo\*, **Haoming Liu**\* (equal contribution) <br>
+**Haoming Liu**\*, Li Guo\* (equal contribution), Zhongwen Zhou, Hanyuan Zhang <br>
 
 ## Projects
 
@@ -115,6 +115,9 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 
 `2020-2021`
 **Dean's List for Academic Year**, *NYU Shanghai*.
+
+`Summer 2021`
+**Research Assistant Fund**, *NYU Shanghai*.
 
 `Summer 2021`
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
