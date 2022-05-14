@@ -38,12 +38,12 @@ Research Assistant Project on *Few-shot Segmentation* <br>
 **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
 
 `Spring 2022`
-**[Ongoing] Evaluating Parameter-Efficient Tuning Methods with Limited Data** <a href="./assets/MLLU_report_draft.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Partial Draft]</a> <a href="https://github.com/hmdliu/MLLU-S22" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+**Evaluating Parameter-Efficient Tuning Methods in Low-Data Regimes** <a href="./assets/MLLU_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/MLLU-S22" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Course Final Project *(DS-UA 203: Machine Learning for Language Understanding)* <br>
-**Haoming Liu**, Wenbin Qi, Xiaochen Lu, *Mentor: <a href="https://cims.nyu.edu/~sbowman/" target="_blank">Prof. Sam Bowman</a>*
+**Haoming Liu**, Xiaochen Lu, Wenbin Qi, *Mentor: <a href="https://cims.nyu.edu/~sbowman/" target="_blank">Prof. Sam Bowman</a>*
 
 `Spring 2022`
-**[Ongoing] Self-supervised Pre-training for Object Detection** <a href="https://drive.google.com/file/d/1dFIxE3CvS43oI0oLGSbOL0hPDuulPWmb/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <a href="https://github.com/hmdliu/DL-SP22-Team2" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+**Self-supervised Pre-training for Object Detection** <a href="https://drive.google.com/file/d/1dFIxE3CvS43oI0oLGSbOL0hPDuulPWmb/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <a href="./assets/DL_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/DL-SP22-Team2" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Course Final Competition [Rank 3] *(CSCI-GA 2572: Deep Learning)* <br>
 **Haoming Liu**, Wenbin Qi, Haorui Li, *Mentor: <a href="https://scholar.google.com/citations?user=WLN3QrAAAAAJ&hl=en" target="_blank">Prof. Yann LeCun</a>, <a href="https://atcold.github.io/" target="_blank">Prof. Alfredo Canziani</a>*
 
@@ -135,4 +135,4 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 <a href="https://tomzhu.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">汤姆的杂货铺</a>
 
 <br/> <br/>
-Last Update: April 2022 <br/> <br/>
+Last Update: May 2022 <br/> <br/>
