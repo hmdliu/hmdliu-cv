@@ -141,4 +141,4 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 <a href="https://tomzhu.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">汤姆的杂货铺</a>
 
 <br/> <br/>
-Last Update: May 2022 <br/> <br/>
+Last Update: June 2022 <br/> <br/>
