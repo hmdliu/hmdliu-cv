@@ -8,7 +8,7 @@ title: Hammond Liu (劉浩銘)
 # Hammond Liu (劉浩銘)
 
 ## Background
-I'm a junior student at NYU Shanghai. My major is Computer Science, and I also minor in Mathematics. Academic research has brought me a lot of fun, so I'm likely to pursue a PhD degree after graduation.
+I'm a rising senior at NYU Shanghai. My major is Computer Science, and I also minor in Mathematics. Academic research has brought me a lot of fun, so I'm likely to pursue a PhD degree after graduation.
 
 My research interests are broadly in the <font color="FFA500">Computer Vision</font> field. Recent research topics includes semantic segmentation, few-shot segmentation, and structural re-parameterization.
 
@@ -22,7 +22,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Education
 
 `2019-Present`
-**B.S., Computer Science**, *NYU Shanghai*, China. (GPA: 3.90/4.00)
+**B.S., Computer Science**, *NYU Shanghai*, China. (GPA: 3.91/4.00)
 
 ## Publications
 `2022`
@@ -32,10 +32,10 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 
 ## Projects
 
-`Summer 2022`
+<!-- `Summer 2022`
 **[Ongoing] Regional Prototype Generation & Alignment** <a href="https://github.com/TeamOfProfGuo/FSS-Exp" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Research Assistant Project on *Few-shot Segmentation* <br>
-**Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
+**Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>* -->
 
 `Spring 2022`
 **Evaluating Parameter-Efficient Tuning Methods in Low-Data Regimes** <a href="./assets/MLLU_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/MLLU-S22" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
@@ -83,6 +83,9 @@ DURF Summer Research Project <br>
 `2020-Present`
 **Computer Vision Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
 
+`Fall 2022`
+**Lead Learning Assistant**, *CSCI-SHU 360: Machine Learning*, NYU Shanghai.
+
 `Summer 2021`
 **OCR Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
 
@@ -113,6 +116,9 @@ CSCI-GA 2271: Computer Vision (graduate-level) \
 CSCI-GA 2572: Deep Learning (graduate-level)
 
 ## Awards & Honors
+
+`Summer 2022`
+**Research Assistant Fund**, *NYU Shanghai*.
 
 `2020-2021`
 **Dean's List for Academic Year**, *NYU Shanghai*.
