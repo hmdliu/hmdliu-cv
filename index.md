@@ -117,6 +117,9 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 
 ## Awards & Honors
 
+`2021-2022`
+**Dean's List for Academic Year**, *NYU Shanghai*.
+
 `Summer 2022`
 **Research Assistant Fund**, *NYU Shanghai*.
 
@@ -139,6 +142,8 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 <a href="https://harrilee.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Harry Lee | 李昊蕤</a>
 \
 <a href="https://tomzhu.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">汤姆的杂货铺</a>
+\
+<a href="https://gaaaavin.github.io/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Xinhao Liu | 刘歆昊</a>
 
 <br/> <br/>
-Last Update: June 2022 <br/> <br/>
+Last Update: July 2022 <br/> <br/>
