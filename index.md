@@ -26,7 +26,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 
 ## Publications
 `2022`
-**Pyramid-context Guided Feature Fusion for RGB-D Semantic Segmentation** <br>
+<a href="https://ieeexplore.ieee.org/document/9859353" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Pyramid-context Guided Feature Fusion for RGB-D Semantic Segmentation</a> <br>
 *Accepted by ICME 2022 (3DMM Workshop)* <br>
 **Haoming Liu**\*, Li Guo\* (equal contribution), Zhongwen Zhou, Hanyuan Zhang <br>
 
@@ -44,7 +44,7 @@ Course Final Project *(DS-UA 203: Machine Learning for Language Understanding)* 
 
 `Spring 2022`
 **Self-supervised Pre-training for Object Detection** <a href="https://drive.google.com/file/d/1dFIxE3CvS43oI0oLGSbOL0hPDuulPWmb/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <a href="./assets/DL_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/DL-SP22-Team2" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
-Course Final Competition [Rank 3] *(CSCI-GA 2572: Deep Learning)* <br>
+Course Final Competition [Rank 3/21] *(CSCI-GA 2572: Deep Learning)* <br>
 **Haoming Liu**, Wenbin Qi, Haorui Li, *Mentor: <a href="https://scholar.google.com/citations?user=WLN3QrAAAAAJ&hl=en" target="_blank">Prof. Yann LeCun</a>, <a href="https://atcold.github.io/" target="_blank">Prof. Alfredo Canziani</a>*
 
 `Fall 2021`
