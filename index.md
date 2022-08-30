@@ -16,6 +16,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
   <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
   <!-- <a href="./assets/resume.pdf"><i class="fas fa-file-pdf"></i> Resume</a> | -->
   <!-- <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> | -->
+  <a href="https://scholar.google.com/citations?hl=en&user=Oo-rRfYAAAAJ" target="_blank"><i class="fa-solid fa-graduation-cap"></i> Haoming Liu</a> |
   <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a>
 </div>
 
@@ -26,7 +27,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 
 ## Publications
 `2022`
-**Pyramid-context Guided Feature Fusion for RGB-D Semantic Segmentation** <a href="https://ieeexplore.ieee.org/document/9859353" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Paper]</a> <a href="https://drive.google.com/file/d/1OsCvwOJk_2gbazxReqFDAqcG7bWQ3oNb/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <br>
+**Pyramid-Context Guided Feature Fusion for RGB-D Semantic Segmentation** <a href="https://ieeexplore.ieee.org/document/9859353" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Paper]</a> <a href="https://drive.google.com/file/d/1OsCvwOJk_2gbazxReqFDAqcG7bWQ3oNb/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <br>
 *Accepted by ICME 2022 (3DMM Workshop)* <br>
 **Haoming Liu**\*, Li Guo\* (equal contribution), Zhongwen Zhou, Hanyuan Zhang <br>
 
