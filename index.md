@@ -10,7 +10,7 @@ title: Hammond Liu (劉浩銘)
 ## Background
 I'm a senior at NYU Shanghai, pursuing a CS major and a Mathematics minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm actively looking for potential PhD supervisors.
 
-My research interests are broadly in the <font color="BA55D3">Computer Vision</font> field. Recently, I'm focusing on researches about few-shot object detection and segmentation.
+My research interests are broadly in the <font color="FFA500">Computer Vision</font> field. Recently, I'm focusing on researches about few-shot object detection and segmentation.
 
 <div id="webaddress">
   <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
@@ -142,7 +142,7 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 ## Misc
 I enjoy recording my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a> to see some of my visualizations.
 
-I study Yi Jing (易经, pronounced as I Ching) and play guitar in my spare time. I'm also learning Guqin (古琴) this semster.
+I study Yi Jing (易经 or I Ching) and play guitar in my spare time. Recently, I'm learning to play Guqin (古琴).
 
 ## Links
 <a href="https://harrilee.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Harry Lee | 李昊蕤</a>
