@@ -104,6 +104,7 @@ MATH-UA 123: Calculus III \
 MATH-UA 251: Intro to Math Modeling \
 \
 CSCI-SHU 210: Data Structures \
+CSCI-SHU 215: Operating Systems \
 CSCI-SHU 220: Algorithms \
 CSCI-SHU 235: Information Visualization \
 CSCI-UA 201: Computer Systems Organization \
@@ -118,26 +119,14 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 
 ## Awards & Honors
 
-`2021-2022`
-**Dean's List for Academic Year**, *NYU Shanghai*.
-
-`Summer 2022`
+`2021 & 2022`
 **Research Assistant Fund**, *NYU Shanghai*.
 
-`2020-2021`
-**Dean's List for Academic Year**, *NYU Shanghai*.
-
-`Summer 2021`
-**Research Assistant Fund**, *NYU Shanghai*.
-
-`Summer 2021`
+`2020 & 2021`
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
-`2019-2020`
+`2019-2021`
 **Dean's List for Academic Year**, *NYU Shanghai*.
-
-`Summer 2020`
-**Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
 ## Misc
 I enjoy recording my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a> to see some of my visualizations.
