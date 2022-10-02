@@ -8,9 +8,9 @@ title: Hammond Liu (劉浩銘)
 # Hammond Liu (劉浩銘)
 
 ## Background
-I'm a rising senior at NYU Shanghai. My major is Computer Science, and I also minor in Mathematics. Academic research has brought me a lot of fun, so I'm likely to pursue a PhD degree after graduation.
+I'm a senior at NYU Shanghai, pursuing a CS major and a Mathematics minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm actively looking for potential PhD supervisors.
 
-My research interests are broadly in the <font color="FFA500">Computer Vision</font> field. Recent research topics includes semantic segmentation, few-shot segmentation, and structural re-parameterization.
+My research interests are broadly in the <font color="BA55D3">Computer Vision</font> field. Recently, I'm focusing on researches about few-shot object detection and segmentation.
 
 <div id="webaddress">
   <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
@@ -139,6 +139,11 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 `Summer 2020`
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
+## Misc
+I enjoy recording my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a> to see some of my visualizations.
+
+I study Yi Jing (易经, pronounced as I Ching) and play guitar in my spare time. I'm also learning Guqin (古琴) this semster.
+
 ## Links
 <a href="https://harrilee.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Harry Lee | 李昊蕤</a>
 \
@@ -147,4 +152,4 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 <a href="https://gaaaavin.github.io/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Xinhao Liu | 刘歆昊</a>
 
 <br/> <br/>
-Last Update: July 2022 <br/> <br/>
+Last Update: October 2022 <br/> <br/>
