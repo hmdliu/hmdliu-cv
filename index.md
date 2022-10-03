@@ -8,7 +8,7 @@ title: Hammond Liu (劉浩銘)
 # Hammond Liu (劉浩銘)
 
 ## Background
-I'm a senior at NYU Shanghai, pursuing a CS major and a Mathematics minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm actively looking for potential PhD supervisors.
+I'm a senior at NYU Shanghai, pursuing a CS major and a Math minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm actively looking for potential PhD supervisors. My latest CV can be found <a href="./assets/CV_Haoming_Liu_Oct_22.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a>.
 
 My research interests are broadly in the <font color="FFA500">Computer Vision</font> field. Recently, I'm focusing on researches about few-shot object detection and segmentation.
 
