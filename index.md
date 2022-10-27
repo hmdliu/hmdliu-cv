@@ -28,7 +28,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Publication
 `2022`
 **Pyramid-Context Guided Feature Fusion for RGB-D Semantic Segmentation** <a href="https://ieeexplore.ieee.org/document/9859353" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Paper]</a> <a href="https://drive.google.com/file/d/1OsCvwOJk_2gbazxReqFDAqcG7bWQ3oNb/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <br>
-*Accepted by ICME 2022 (3DMM Workshop)* <br>
+*Proceedings of the 2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)* <br>
 **Haoming Liu**\*, Li Guo\*, Zhongwen Zhou, Hanyuan Zhang <br>
 
 ## Preprint
