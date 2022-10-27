@@ -10,7 +10,7 @@ title: Hammond Liu (劉浩銘)
 ## Background
 I'm a senior at NYU Shanghai, pursuing a CS major and a Math minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm applying for Ph.D. and thesis-track M.S. programs. <!-- **My latest CV can be found <a href="./assets/CV_Haoming_Liu_221027.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a>.** -->
 
-My research interests are broadly in the <font color="FFA500">Computer Vision</font> field but consistently dedicating to <font color="FFA500">data-efficient and/or parameter-efficient tuning methods</font>. Recently, I'm focusing on generalized few-shot object detection and segmentation.
+My research interests are broadly in the **Computer Vision** field but consistently dedicating to **efficient tuning methods** (in terms of data, parameter, or such). Recently, I'm focusing on generalized few-shot object detection and segmentation.
 
 <div id="webaddress">
   <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
@@ -23,8 +23,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Education
 
 `2019-Present`
-**B.S., Computer Science**, *NYU Shanghai*, China. <br>
-Cumulative GPA: 3.91/4.00 | Major GPA: 3.95/4.00
+**B.S., Computer Science**, *NYU Shanghai*, China. (Cumulative GPA: 3.91/4.00, Major GPA: 3.95/4.00) <br>
 
 ## Publication
 `2022`
@@ -121,7 +120,7 @@ Course Final Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 
 ## Skills
 **[Programming]** Python, C, HTML, Javascript, CSS, Matlab, Linux, Git, LaTeX, Markdown, Slurm. \
-**[Language]** Native in Mandarin, Working proficiency in English. \
+**[Language]** Native in Mandarin, Working proficiency in English.
 
 ## Courses
 CSCI-SHU 2314: Discrete Maths \
