@@ -8,22 +8,23 @@ title: Hammond Liu (劉浩銘)
 # Hammond Liu (劉浩銘)
 
 ## Background
-I'm a senior at NYU Shanghai, pursuing a CS major and a Math minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm applying for PhD and thesis-track Master programs. **My latest CV can be found <a href="./assets/CV_Haoming_Liu_221027.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a>.**
+I'm a senior at NYU Shanghai, pursuing a CS major and a Math minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm applying for Ph.D. and thesis-track M.S. programs. <!-- **My latest CV can be found <a href="./assets/CV_Haoming_Liu_221027.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a>.** -->
 
-My research interests are broadly in the <font color="FFA500">Computer Vision</font> field but consistently dedicating to data-efficient and/or parameter-efficient tuning methods for different modalities. Recently, I'm focusing on generalized few-shot object detection and segmentation.
+My research interests are broadly in the <font color="FFA500">Computer Vision</font> field but consistently dedicating to <font color="FFA500">data-efficient and/or parameter-efficient tuning methods</font>. Recently, I'm focusing on generalized few-shot object detection and segmentation.
 
 <div id="webaddress">
   <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
-  <a href="./assets/CV_Haoming_Liu_221027.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a> |
   <!-- <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> | -->
   <a href="https://scholar.google.com/citations?hl=en&user=Oo-rRfYAAAAJ" target="_blank"><i class="fa fa-graduation-cap"></i> Haoming Liu</a> |
-  <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a>
+  <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a> |
+  <a href="./assets/CV_Haoming_Liu_221027.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
 </div>
 
 ## Education
 
 `2019-Present`
-**B.S., Computer Science**, *NYU Shanghai*, China. (GPA: 3.91/4.00)
+**B.S., Computer Science**, *NYU Shanghai*, China. <br>
+Cumulative GPA: 3.91/4.00 | Major GPA: 3.95/4.00
 
 ## Publication
 `2022`
@@ -88,24 +89,24 @@ DURF Summer Research Project <br>
 `Fall 2019`
 **Encrypted Chat System & Cloud Drive** <a href="https://github.com/hmdliu/ics-chat-system" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <a href="https://docs.google.com/presentation/d/1Ci9oCbp3dvqZpIpGcjb-KN_fjanhKY5riuh2X4izT8w/edit?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Slides]</a> <br>
 Course Final Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
-**Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>*
+**Haoming Liu**, Xilin Chen, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>*
 
 ## Experience
 
 `2020-Present`
 **Computer Vision Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
 
-`Fall 2022`
-**Machine Learning Course Assistant (STEM Lead)**, NYU Shanghai.
-
 `Summer 2021`
 **OCR Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
 
-`2020-2021`
-**President**, *Splice Club (CS/DS focused)*, NYU Shanghai.
+`Fall 2022`
+**Machine Learning Course Assistant (STEM Lead)**, NYU Shanghai.
 
 `Spring 2021`
 **Information Visualization Course Assistant**, NYU Shanghai.
+
+`2020-2021`
+**President**, *Splice Club (CS/DS focused)*, NYU Shanghai.
 
 ## Awards & Honors
 
@@ -119,8 +120,8 @@ Course Final Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 **Dean's List for Academic Year**, *NYU Shanghai*.
 
 ## Skills
-**Programming Skills:** Python, C, HTML, Javascript, CSS, Matlab, Linux, Git, LaTeX, Markdown, Slurm. \
-**Language Skills:** Native in Mandarin, Working proficiency in English. \
+**[Programming]** Python, C, HTML, Javascript, CSS, Matlab, Linux, Git, LaTeX, Markdown, Slurm. \
+**[Language]** Native in Mandarin, Working proficiency in English. \
 
 ## Courses
 CSCI-SHU 2314: Discrete Maths \
