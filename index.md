@@ -40,7 +40,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Projects
 
 `Spring 2022`
-**Evaluating Parameter-Efficient Tuning Methods in Low-Data Regimes** <a href="https://drive.google.com/file/d/1HZPFFIHYGqjGPo6CqxmekoNr3lhPLiVH/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <a href="./assets/MLLU_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/MLLU-S22" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+**Evaluating Parameter-Efficient Tuning Methods in Low-Data Regimes** <!-- <a href="https://drive.google.com/file/d/1HZPFFIHYGqjGPo6CqxmekoNr3lhPLiVH/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> --> <a href="./assets/MLLU_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/MLLU-S22" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Course Research Project *(DS-UA 203: Machine Learning for Language Understanding)* <br>
 **Haoming Liu**, Xiaochen Lu, Wenbin Qi, *Mentor: <a href="https://cims.nyu.edu/~sbowman/" target="_blank">Prof. Sam Bowman</a>*
 
@@ -113,7 +113,8 @@ Course Final Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 **Dean's List for Academic Year**, *NYU Shanghai*.
 
 ## Skills
-**[Programming]** Python, C, HTML, Javascript, CSS, Matlab, Linux, Git, LaTeX, Markdown, Slurm. \
+**[Programming]** Python, C, HTML, Javascript, CSS, Matlab, Linux, Git, LaTeX, Markdown, Slurm.
+
 **[Language]** Native in Mandarin, Working proficiency in English.
 
 ## Courses
@@ -140,7 +141,7 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 ## Misc
 I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a> to see some of my visualizations.
 
-I study Yi Jing (易经) and play guitar in my spare time. Recently, I'm learning to play Guqin (古琴).
+I study <a href="https://en.wikipedia.org/wiki/I_Ching" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Yi Jing (易经)</a> and play <a href="https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Guitar</a> in my spare time. Recently, I'm learning to play <a href="https://en.wikipedia.org/wiki/Guqin" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Guqin (古琴)</a>.
 
 ## Links
 Please also check out my friends' homepages (sorted by alphabet):
