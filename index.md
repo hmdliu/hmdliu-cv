@@ -46,7 +46,7 @@ Course Research Project *(DS-UA 203: Machine Learning for Language Understanding
 
 `Spring 2022`
 **Self-supervised Pre-training for Object Detection** <a href="https://drive.google.com/file/d/1dFIxE3CvS43oI0oLGSbOL0hPDuulPWmb/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <a href="./assets/DL_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/DL-SP22-Team2" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
-Course Final Competition [Rank 3/21] *(CSCI-GA 2572: Deep Learning)* <br>
+Course Competition [Rank 3/21] *(CSCI-GA 2572: Deep Learning)* <br>
 **Haoming Liu**, Wenbin Qi, Harry Lee, *Mentor: <a href="https://scholar.google.com/citations?user=WLN3QrAAAAAJ&hl=en" target="_blank">Prof. Yann LeCun</a>, <a href="https://atcold.github.io/" target="_blank">Prof. Alfredo Canziani</a>*
 
 `Fall 2021`
@@ -66,12 +66,12 @@ DURF Summer Research Project <br>
 
 `Fall 2020`
 **Face Mask Detection based on Transfer Learning and YOLO v4** <a href="./assets/ML_face_mask_detection.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/ML-project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <a href="https://drive.google.com/file/d/1-6bYvPfOXBmuOagbstXiE5P_dYjT8i6b/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Demo]</a> <br>
-Course Final Project *(CSCI-SHU 360: Machine Learning)* <br>
+Course Project *(CSCI-SHU 360: Machine Learning)* <br>
 **Haoming Liu**, Kaiwen Dai, Chunli Xu, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/enric-junque-de-fortuny" target="_blank">Prof. Enric Junqué de Fortuny</a>*
 
 `Fall 2020`
 **Life Hacking on Time Management: Daily Life Visualization** <a href="./assets/IV_daily_life_vis.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Demo]</a> <br>
-Course Final Project *(CSCI-SHU 235: Information Visualization)* <br>
+Course Project *(CSCI-SHU 235: Information Visualization)* <br>
 **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>*
 
 `Summer 2020`
@@ -81,7 +81,7 @@ DURF Summer Research Project <br>
 
 `Fall 2019`
 **Encrypted Chat System & Cloud Drive** <a href="https://github.com/hmdliu/ics-chat-system" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <a href="https://docs.google.com/presentation/d/1Ci9oCbp3dvqZpIpGcjb-KN_fjanhKY5riuh2X4izT8w/edit?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Slides]</a> <br>
-Course Final Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
+Course Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 **Haoming Liu**, Xilin Chen, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>*
 
 ## Experience
@@ -141,7 +141,7 @@ CSCI-GA 2572: Deep Learning (graduate-level)
 ## Misc
 I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a> to see some of my visualizations.
 
-I study <a href="https://en.wikipedia.org/wiki/I_Ching" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Yi Jing (易经)</a> and play <a href="https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Guitar</a> in my spare time. Recently, I'm learning to play <a href="https://en.wikipedia.org/wiki/Guqin" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Guqin (古琴)</a>.
+I study <a href="https://en.wikipedia.org/wiki/I_Ching" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Yi Jing (易经)</a> and play <a href="https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">guitar</a> in my spare time. Recently, I'm learning to play <a href="https://en.wikipedia.org/wiki/Guqin" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Guqin (古琴)</a>.
 
 ## Links
 Please also check out my friends' homepages (sorted by alphabet):
