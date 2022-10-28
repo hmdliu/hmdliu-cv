@@ -8,7 +8,7 @@ title: Hammond Liu (劉浩銘)
 # Hammond Liu (劉浩銘)
 
 ## Background
-I'm a senior at NYU Shanghai, pursuing a CS major and a Math minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm applying for Ph.D. and thesis-track M.S. programs. <!-- **My latest CV can be found <a href="./assets/CV_Haoming_Liu_221027.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a>.** -->
+I'm a senior at NYU Shanghai, pursuing a CS major and a Math minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm applying for Ph.D. and thesis-track M.S. programs.
 
 My research interests are broadly in the <font color="FFA500">Computer Vision</font> field but consistently dedicating to <font color="FFA500">efficient tuning methods</font> (in terms of data, parameter, or such). Recently, I'm focusing on generalized few-shot object detection and segmentation.
 
@@ -17,7 +17,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
   <!-- <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> | -->
   <a href="https://scholar.google.com/citations?hl=en&user=Oo-rRfYAAAAJ" target="_blank"><i class="fa fa-graduation-cap"></i> Haoming Liu</a> |
   <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a> |
-  <a href="./assets/CV_Haoming_Liu_221027.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
+  <a href="./assets/CV_Haoming_Liu_221028.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
 </div>
 
 ## Education
