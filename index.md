@@ -1,11 +1,11 @@
 ---
 layout: cv
-title: Hammond Liu (劉浩銘)
+title: Hammond Liu | 刘浩铭
 ---
 
 <br/>
 
-# Hammond Liu (劉浩銘)
+# Hammond Liu | 刘浩铭
 
 ## Background
 I'm a senior at NYU Shanghai, pursuing a CS major and a Math minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm applying for Ph.D. and thesis-track M.S. programs.
