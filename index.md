@@ -41,7 +41,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 
 `Spring 2022`
 **Evaluating Parameter-Efficient Tuning Methods in Low-Data Regimes** <a href="https://drive.google.com/file/d/1HZPFFIHYGqjGPo6CqxmekoNr3lhPLiVH/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <a href="./assets/MLLU_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/MLLU-S22" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
-Course Final Project *(DS-UA 203: Machine Learning for Language Understanding)* <br>
+Course Research Project *(DS-UA 203: Machine Learning for Language Understanding)* <br>
 **Haoming Liu**, Xiaochen Lu, Wenbin Qi, *Mentor: <a href="https://cims.nyu.edu/~sbowman/" target="_blank">Prof. Sam Bowman</a>*
 
 `Spring 2022`
@@ -51,7 +51,7 @@ Course Final Competition [Rank 3/21] *(CSCI-GA 2572: Deep Learning)* <br>
 
 `Fall 2021`
 **RepMAF: When Re-parameterization Meets Multi-scale Attention** <a href="https://drive.google.com/file/d/1s0Ok-tXuxGn75a_k5NGgRZ4hMTHetreE/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <a href="./assets/CV_RepMAF.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/RepMAF" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
-Course Final Project *(CSCI-GA 2271: Computer Vision)* <br>
+Course Research Project *(CSCI-GA 2271: Computer Vision)* <br>
 **Haoming Liu**, Chen Song Zhang, Jiayao Jin, *Mentor: <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Prof. Rob Fergus</a>*
 
 `Summer 2021`
