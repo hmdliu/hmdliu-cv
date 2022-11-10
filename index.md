@@ -35,7 +35,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 `2022`
 **Boosting Few-Shot Segmentation via Instance-Aware Data Augmentation and Local Consensus Guided Cross Attention** <a href="https://github.com/hmdliu/FSS-Codebase" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Codebase]</a> <br>
 *Submitted to the 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* <br>
-Li Guo\*, **Haoming Liu**\*, Chengyu Zhang, Xiaochen Lu, Yuxuan Xia, and Zhenxing Niu <br>
+Li Guo\*, **Haoming Liu**\*, Chengyu Zhang, Yuxuan Xia, Xiaochen Lu, and Zhenxing Niu <br>
 
 ## Projects
 
