@@ -17,7 +17,7 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
   <!-- <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> | -->
   <a href="https://scholar.google.com/citations?hl=en&user=Oo-rRfYAAAAJ" target="_blank"><i class="fa fa-graduation-cap"></i> Haoming Liu</a> |
   <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a> |
-  <a href="./assets/CV_Haoming_Liu_221028.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
+  <a href="./assets/CV_Haoming_Liu_221110.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
 </div>
 
 ## Education
@@ -34,8 +34,8 @@ My research interests are broadly in the <font color="FFA500">Computer Vision</f
 ## Preprint
 `2022`
 **Boosting Few-Shot Segmentation via Instance-Aware Data Augmentation and Local Consensus Guided Cross Attention** <a href="https://github.com/hmdliu/FSS-Codebase" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Codebase]</a> <br>
-*To be submitted to CVPR 2023* <br>
-**Haoming Liu**\*, Li Guo\*, Chengyu Zhang, Xiaochen Lu, Yuxuan Xia, and Zhenxing Niu <br>
+*Submitted to the 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* <br>
+Li Guo\*, **Haoming Liu**\*, Chengyu Zhang, Xiaochen Lu, Yuxuan Xia, and Zhenxing Niu <br>
 
 ## Projects
 
@@ -113,7 +113,7 @@ Course Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 **Dean's List for Academic Year**, *NYU Shanghai*.
 
 ## Skills
-**[Programming]** Python, C, HTML, Javascript, CSS, Matlab, Linux, Git, LaTeX, Markdown, Slurm.
+**[Programming]** Python, C, Javascript, Matlab, HTML, CSS, Linux, Git, LaTeX, Markdown, Slurm.
 
 **[Language]** Native in Mandarin, Working proficiency in English.
 
@@ -144,7 +144,7 @@ I enjoy logging my daily activities and visualizing them - this helps me adjust 
 I study <a href="https://en.wikipedia.org/wiki/I_Ching" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Yi Jing (易经)</a> and play <a href="https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">guitar</a> in my spare time. Recently, I'm learning to play <a href="https://en.wikipedia.org/wiki/Guqin" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Guqin (古琴)</a>.
 
 ## Links
-Please also check out my friends' homepages (sorted by alphabet):
+Please also check out my friends' homepages:
 \
 <a href="https://harrilee.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Harry Lee</a>
 \
@@ -157,4 +157,4 @@ Please also check out my friends' homepages (sorted by alphabet):
 <a href="https://gaaaavin.github.io/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Xinhao Liu</a>
 
 <br/> <br/>
-Last Update: October 2022 <br/> <br/>
+Last Update: November 2022 <br/> <br/>
