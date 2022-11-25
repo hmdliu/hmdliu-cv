@@ -135,8 +135,8 @@ CSCI-UA 480: Computer Networks \
 CSCI-SHU 360: Machine Learning \
 CSCI-UA 9472: Artificial Intelligence \
 LING-UA 52: Machine Learning for Language Understanding \
-CSCI-GA 2271: Computer Vision (graduate-level) \
-CSCI-GA 2572: Deep Learning (graduate-level)
+CSCI-GA 2271: Computer Vision (graduate course) \
+CSCI-GA 2572: Deep Learning (graduate course)
 
 ## Misc
 I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a> to see some of my visualizations.
