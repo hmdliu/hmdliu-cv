@@ -10,7 +10,7 @@ title: Hammond Liu | 刘浩铭
 ## Background
 I'm a senior at NYU Shanghai, pursuing a CS major and a Math minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm applying for Ph.D. and thesis-track M.S. programs.
 
-I'm interested in the <font color="FFA500">Deep Learning</font> field in general, though my research experience was more dedicated to <font color="FFA500">Computer Vision</font>. I wish to tackle the lack-of-resource scenarios in real-world applications through data-efficient learning paradigms or generic feature representations. I’m also open to other topics that fit in my background and have application prospects - **I want to do something practical instead of improving SOTAs blindly**. My recent research is about generalized few-shot segmentation.
+I'm interested in <font color="FFA500">Deep Learning</font> field in general, though my research experience was more dedicated to <font color="FFA500">Computer Vision</font>. I wish to tackle the lack-of-resource scenarios in real-world applications through data-efficient learning paradigms or generic feature representations. I’m also open to other topics that fit in my background and have application prospects - **I want to do something practical instead of improving SOTAs blindly**. My recent research is about generalized few-shot segmentation.
 
 <div id="webaddress">
   <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
