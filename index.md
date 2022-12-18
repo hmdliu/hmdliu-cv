@@ -17,7 +17,7 @@ I'm interested in <font color="FFA500">Deep Learning</font> in general, though m
   <!-- <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> | -->
   <a href="https://scholar.google.com/citations?hl=en&user=Oo-rRfYAAAAJ" target="_blank"><i class="fa fa-graduation-cap"></i> Haoming Liu</a> |
   <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a> |
-  <a href="./assets/CV_Haoming_Liu_221125.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
+  <a href="./assets/CV_Haoming_Liu_221218.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
 </div>
 
 ## Education
