@@ -39,6 +39,11 @@ Li Guo\*, **Haoming Liu**\*, Chengyu Zhang, Yuxuan Xia, Xiaochen Lu, and Zhenxin
 
 ## Projects
 
+`Fall 2022`
+**Towards Generalized Few-shot Segmentation: On Contrastive Learning and Background Information Modeling** <a href="https://drive.google.com/file/d/1s7ozZOMiHsEa3f2cFKRqsiSokbJIWVMG/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <a href="./assets/Capstone_GFSS.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/GFSS-Capstone" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+Capstone Project *(CSCI-SHU 420: Computer Science Senior Project)* <br>
+**Haoming Liu**, Chengyu Zhang, Xiaochen Lu, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*
+
 `Spring 2022`
 **Evaluating Parameter-Efficient Tuning Methods in Low-Data Regimes** <!-- <a href="https://drive.google.com/file/d/1HZPFFIHYGqjGPo6CqxmekoNr3lhPLiVH/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> --> <a href="./assets/MLLU_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/MLLU-S22" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
 Course Research Project *(DS-UA 203: Machine Learning for Language Understanding)* <br>
