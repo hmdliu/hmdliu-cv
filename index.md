@@ -120,7 +120,7 @@ Course Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 ## Skills
 **[Programming]** Python, C, Javascript, Matlab, HTML, CSS, Linux, Git, LaTeX, Markdown, Slurm.
 
-**[Language]** Native in Mandarin, Working proficiency in English.
+**[Language]** Native in Mandarin, Working proficiency in English (TOEFL 105, 27 for Speaking).
 
 ## Courses
 CSCI-SHU 2314: Discrete Maths \
