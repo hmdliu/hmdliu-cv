@@ -157,6 +157,8 @@ Please also check out my friends' homepages:
 \
 <a href="https://tomzhu.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Tom Zhu</a>
 \
+<a href="https://victor-wang-902.github.io/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Victor Wang</a>
+\
 <a href="https://mstxy.github.io/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">William Zhang</a>
 \
 <a href="https://gaaaavin.github.io/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Xinhao Liu</a>
