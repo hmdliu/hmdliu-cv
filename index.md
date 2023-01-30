@@ -151,6 +151,8 @@ I study <a href="https://en.wikipedia.org/wiki/I_Ching" style="color:#BA55D3; te
 ## Links
 Please also check out my friends' homepages:
 \
+<a href="https://billyyi.top/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Billy Yi</a>
+\
 <a href="https://harrilee.site/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Harry Lee</a>
 \
 <a href="https://nigellu.github.io/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Nigel Lu</a>
