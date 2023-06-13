@@ -1,16 +1,18 @@
 ---
 layout: cv
-title: Hammond Liu | 刘浩铭
+title: Hammond Liu | 劉浩銘
 ---
 
 <br/>
 
-# Hammond Liu | 刘浩铭
+# Hammond Liu | 劉浩銘
 
 ## Background
-I'm an incoming CS Ph.D. student at NYU Shanghai and NYU Tandon (co-affiliation), advised by Professor <a href="https://whongyi.github.io/" target="_blank">Hongyi Wen</a>. Prior to that, I did my undergrad at NYU Shanghai as well, where I received my B.S. degree in Computer Science and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering (top-1 honor in the department).
+I'm an incoming CS Ph.D. student at NYU Shanghai and NYU Tandon (co-affiliation), advised by Professor <a href="https://whongyi.github.io/" target="_blank">Hongyi Wen</a>. Prior to that, I did my undergrad at NYU Shanghai, where I was fortunate to receive research training under the guidance of Professor <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Li Guo</a>. In 2023, I obtained my B.S. degree in Computer Science and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering (top-1 honor in the department).
 
-I‘m passionate about exploring the abstract correlations behind instances and facts, and I very much enjoy the beauty of elegant code. I'm interested in deep learning in general, though my research during undergrad was more dedicated to computer vision. My current research interests fall into the overlapping areas of <font color="FFA500">computer vision</font> and <font color="FFA500">personalization</font>. Recently, I've been working on **personalized image generation**.
+I‘m passionate about exploring the abstract correlations behind instances and facts, and I very much enjoy the beauty of elegant code. During undergrad, my research was dedicated to segmentation tasks in the computer vision field, such as few-shot segmentation and RGB-D semantic segmentation. My current research interest lies in **utilizing multimodal data and large pre-trained models for practical applications of personalization**. Recently, I've been working on personalized image generation.
+
+<!-- <font color="FFA500">computer vision</font> -->
 
 <div id="webaddress">
   <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
@@ -37,7 +39,7 @@ I‘m passionate about exploring the abstract correlations behind instances and 
 ## Preprint
 `2023`
 **Boosting Few-Shot Segmentation via Instance-Aware Data Augmentation and Local Consensus Guided Cross Attention** <a href="https://github.com/hmdliu/FSS-Codebase" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Codebase]</a> <br>
-*Submitted to IEEE Transactions on Circuits and Systems for Video Technology* <br>
+*Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)* <br>
 Li Guo\*, **Haoming Liu**\*, Chengyu Zhang, Yuxuan Xia, Xiaochen Lu, and Zhenxing Niu <br>
 
 ## Projects
@@ -49,7 +51,7 @@ Course Research Project *(CSCI-SHU 381: Recommendation Systems)* <br>
 
 `Spring 2023`
 **Optimization of Water Cooler Placement** <a href="./assets/Optim_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/Optim-SP23" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
-Course Final Project *(DATS-SHU 240: Intro to Optimization and Mathematical Programming)* <br>
+Course Project *(DATS-SHU 240: Intro to Optimization and Mathematical Programming)* <br>
 **Haoming Liu**, Shizhao Yang, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen" target="_blank">Prof. Zhibin Chen</a>*
 
 `Fall 2022`
@@ -98,7 +100,7 @@ DURF Summer Research Project <br>
 **Haoming Liu**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>*
 
 `Fall 2019`
-**Encrypted Chat System & Cloud Drive** <a href="https://github.com/hmdliu/ics-chat-system" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <a href="https://docs.google.com/presentation/d/1Ci9oCbp3dvqZpIpGcjb-KN_fjanhKY5riuh2X4izT8w/edit?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Slides]</a> <br>
+**Encrypted Chat System with Cloud Drive** <a href="https://github.com/hmdliu/ics-chat-system" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <a href="https://docs.google.com/presentation/d/1Ci9oCbp3dvqZpIpGcjb-KN_fjanhKY5riuh2X4izT8w/edit?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Slides]</a> <br>
 Course Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 **Haoming Liu**, Xilin Chen, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu" target="_blank">Prof. Xianbin Gu</a>*
 
@@ -111,7 +113,7 @@ Course Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 **OCR Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
 
 `Spring 2023`
-**Intro to Computer and Data Science Course Assistant (STEM Lead)**, NYU Shanghai.
+**Intro to CS and DS Course Assistant (STEM Lead)**, NYU Shanghai.
 
 `Fall 2022`
 **Machine Learning Course Assistant (STEM Lead)**, NYU Shanghai.
@@ -169,9 +171,9 @@ CSCI-GA 2271: Computer Vision (graduate course) \
 CSCI-GA 2572: Deep Learning (graduate course) -->
 
 ## Misc
-I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a> to see some of my visualizations.
+In my spare time, I read philosophical works about Confucianism, Buddhism, and Taoism (儒釋道) and study some divination or fortune-telling techniques (易經數術) from ancient China. Besides, I sometimes play <a href="https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">guitar</a> and Guqin (古琴).
 
-I study <a href="https://en.wikipedia.org/wiki/I_Ching" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Yi Jing (易经)</a> and play <a href="https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">guitar</a> in my spare time. Recently, I'm learning to play <a href="https://en.wikipedia.org/wiki/Guqin" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Guqin (古琴)</a>.
+I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a> to see some of my visualizations.
 
 ## Links
 Please also check out my friends' homepages:
