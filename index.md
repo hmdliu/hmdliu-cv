@@ -8,22 +8,25 @@ title: Hammond Liu | 刘浩铭
 # Hammond Liu | 刘浩铭
 
 ## Background
-I'm a senior at NYU Shanghai, pursuing a CS major and a Math minor. I love uncovering mysteries and finding patterns behind them. Designing deep learning models and writing code elegantly has brought me a lot of fun. Currently, I'm applying for Ph.D. and thesis-track M.S. programs.
+I'm an incoming CS Ph.D. student at NYU Shanghai and NYU Tandon (co-affiliation), advised by Professor <a href="https://whongyi.github.io/" target="_blank">Hongyi Wen</a>. Prior to that, I did my undergrad at NYU Shanghai as well, where I received my B.S. degree in Computer Science and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering (top-1 honor in the department).
 
-I'm interested in <font color="FFA500">Deep Learning</font> in general, though my research experience was more dedicated to <font color="FFA500">Computer Vision</font>. I wish to tackle the lack-of-resource scenarios in real-world applications through data-efficient learning paradigms or generic feature representations. I’m also open to other topics that fit my background and have application prospects - **I want to do something practical instead of improving SOTAs blindly**. My recent research is about generalized few-shot segmentation.
+I‘m passionate about exploring the abstract correlations behind instances and facts, and I very much enjoy the beauty of elegant code. I'm interested in deep learning in general, though my research during undergrad was more dedicated to computer vision. My current research interests fall into the overlapping areas of <font color="FFA500">computer vision</font> and <font color="FFA500">personalization</font>. Recently, I've been working on **personalized image generation**.
 
 <div id="webaddress">
   <a href="mailto:hammond.liu@nyu.edu" target="_blank"><i class="fa fa-envelope-open"></i> hammond.liu@nyu.edu</a> |
   <!-- <a href="https://blog.hmdliu.site/" target="_blank"><i class="fas fa-blog"></i> blog.hmdliu.site</a> | -->
   <a href="https://scholar.google.com/citations?hl=en&user=Oo-rRfYAAAAJ" target="_blank"><i class="fa fa-graduation-cap"></i> Haoming Liu</a> |
   <a href="https://github.com/hmdliu" target="_blank"><i class="fab fa-github"></i> hmdliu</a> |
-  <a href="./assets/CV_Haoming_Liu_221230.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
+  <a href="./assets/CV_Haoming_Liu_221230.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV (outdated)</a>
 </div>
 
 ## Education
 
-`2019-Present`
-**B.S., Computer Science**, *NYU Shanghai*, China. (Cumulative GPA: 3.92/4.00, Major GPA: 3.96/4.00) <br>
+`2019-2023`
+**B.S., Computer Science**, *NYU Shanghai*, China. (Cumulative GPA: 3.94/4.00, Major GPA: 3.97/4.00) <br>
+
+`2023-Present`
+**Ph.D., Computer Science**, *NYU Shanghai & NYU Tandon*, China & United States. <br>
 
 ## Publication
 `2022`
@@ -32,12 +35,22 @@ I'm interested in <font color="FFA500">Deep Learning</font> in general, though m
 **Haoming Liu**\*, Li Guo\*, Zhongwen Zhou, Hanyuan Zhang <br>
 
 ## Preprint
-`2022`
+`2023`
 **Boosting Few-Shot Segmentation via Instance-Aware Data Augmentation and Local Consensus Guided Cross Attention** <a href="https://github.com/hmdliu/FSS-Codebase" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Codebase]</a> <br>
-*Submitted to the 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* <br>
+*Submitted to IEEE Transactions on Circuits and Systems for Video Technology* <br>
 Li Guo\*, **Haoming Liu**\*, Chengyu Zhang, Yuxuan Xia, Xiaochen Lu, and Zhenxing Niu <br>
 
 ## Projects
+
+`Spring 2023`
+**Countering Popularity Bias via Mixed Sampling Guided Regularization** <a href="./assets/RS_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/RecSys-SP23/tree/main/Project" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+Course Research Project *(CSCI-SHU 381: Recommendation Systems)* <br>
+**Haoming Liu**, Haohai Pang, *Mentor: <a href="https://whongyi.github.io/" target="_blank">Prof. Hongyi Wen</a>*
+
+`Spring 2023`
+**Optimization of Water Cooler Placement** <a href="./assets/Optim_report.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/Optim-SP23" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
+Course Final Project *(DATS-SHU 240: Intro to Optimization and Mathematical Programming)* <br>
+**Haoming Liu**, Shizhao Yang, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen" target="_blank">Prof. Zhibin Chen</a>*
 
 `Fall 2022`
 **Towards Generalized Few-shot Segmentation: On Contrastive Learning and Background Information Modeling** <a href="https://drive.google.com/file/d/1s7ozZOMiHsEa3f2cFKRqsiSokbJIWVMG/view?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Video]</a> <a href="./assets/Capstone_GFSS.pdf" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Report]</a> <a href="https://github.com/hmdliu/GFSS-Capstone" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">  [Code]</a> <br>
@@ -91,11 +104,14 @@ Course Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 
 ## Experience
 
-`2020-Present`
+`2020-2023`
 **Computer Vision Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" target="_blank">Prof. Li Guo</a>*, NYU Shanghai.
 
 `Summer 2021`
 **OCR Research Assistant**, *Mentor: <a href="https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan" target="_blank">Prof. Chenghe Guan</a>*, NYU Shanghai.
+
+`Spring 2023`
+**Intro to Computer and Data Science Course Assistant (STEM Lead)**, NYU Shanghai.
 
 `Fall 2022`
 **Machine Learning Course Assistant (STEM Lead)**, NYU Shanghai.
@@ -108,13 +124,22 @@ Course Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 
 ## Awards & Honors
 
+`2023`
+**Dean's Award in Computer Science, Data Science, and Engineering**, *NYU Shanghai*.
+
+`2023`
+**NYU Shanghai Excellence Award**, *NYU Shanghai*.
+
+`2023`
+**Summa cum laude**, *NYU Shanghai*.
+
 `2021 & 2022`
 **Research Assistant Fund**, *NYU Shanghai*.
 
 `2020 & 2021`
 **Deans' Undergraduate Research Fund**, *NYU Shanghai*.
 
-`2019-2021`
+`2019-2022`
 **Dean's List for Academic Year**, *NYU Shanghai*.
 
 ## Skills
@@ -122,7 +147,7 @@ Course Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 
 **[Language]** Native in Mandarin, Working proficiency in English (TOEFL 105, 27 for Speaking).
 
-## Courses
+<!-- ## Courses
 CSCI-SHU 2314: Discrete Maths \
 MATH-SHU 140: Linear Algebra \
 MATH-SHU 235: Probability and Statistics \
@@ -141,7 +166,7 @@ CSCI-SHU 360: Machine Learning \
 CSCI-UA 9472: Artificial Intelligence \
 LING-UA 52: Machine Learning for Language Understanding \
 CSCI-GA 2271: Computer Vision (graduate course) \
-CSCI-GA 2572: Deep Learning (graduate course)
+CSCI-GA 2572: Deep Learning (graduate course) -->
 
 ## Misc
 I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click <a href="https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">here</a> to see some of my visualizations.
@@ -166,4 +191,4 @@ Please also check out my friends' homepages:
 <a href="https://gaaaavin.github.io/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Xinhao Liu</a>
 
 <br/> <br/>
-Last Update: December 2022 <br/> <br/>
+Last Update: June 2023 <br/> <br/>
