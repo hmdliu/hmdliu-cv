@@ -10,7 +10,7 @@ title: Hammond Liu | 劉浩銘
 ## Background
 I'm an incoming Ph.D. student at <a href="https://shanghai.nyu.edu/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">NYU Shanghai</a> and <a href="https://engineering.nyu.edu/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">NYU Tandon</a> (co-affiliation), advised by Professor <a href="https://whongyi.github.io/" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Hongyi Wen</a>. Prior to that, I did my undergrad at NYU Shanghai, where I was fortunate to receive research training under the guidance of Professor <a href="https://shanghai.nyu.edu/academics/faculty/directory/li-guo" style="color:#BA55D3; text-decoration:none" onmouseover="this.style.color='#39f'; this.style.textDecoration='none'" onmouseout="this.style.color='#BA55D3'; this.style.textDecoration='none'" target="_blank">Li Guo</a>. In 2023, I obtained my B.S. degree and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering (top-1 honor in the department).
 
-I‘m passionate about exploring the abstract correlations behind instances and facts, and I very much enjoy the beauty of elegant code. During undergrad, my research was dedicated to segmentation tasks in the computer vision field, such as few-shot segmentation and RGB-D semantic segmentation. Currently, my research interest lies in **utilizing multimodal data and large pre-trained models for practical applications of personalization**. My recent work is about personalized image generation.
+I‘m passionate about exploring the abstract correlations behind instances and facts, and I very much enjoy the beauty of elegant code. During undergrad, my research was dedicated to segmentation tasks in the computer vision field. Currently, my research interest lies in **utilizing multimodal data and large pre-trained models for practical applications of personalization**. My recent work is about personalized image generation.
 
 <!-- <font color="FFA500">computer vision</font> -->
 
@@ -131,6 +131,9 @@ Course Project *(CSCI-SHU 101: Intro to Computer Science)* <br>
 
 `2023`
 **NYU Shanghai Excellence Award**, NYU Shanghai.
+
+`2023`
+**University Honors Scholar**, NYU.
 
 `2023`
 **Summa cum laude**, NYU Shanghai.
